@@ -32,7 +32,7 @@ import java.io.OutputStream;
 
 import nexnet.com.solution.R;
 import nexnet.com.solution.service.Utilities;
-
+//start of the sign up activity
 public class SignUpActivity extends AppCompatActivity implements VerificationManager.VerificationProgressCallback {
     private static final String DEBUG_TAG = SignUpActivity.class.getSimpleName();
     private static final String PREF_M800_CERT = "com.demo.m800.cert";
